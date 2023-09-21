@@ -15,7 +15,7 @@ That is, while there is value in the items on
 the right, we value the items on the left more.
 
 
-Principles behind the Agile Manifesto
+## Principles behind the Agile Manifesto
 
 
 We follow these principles:
